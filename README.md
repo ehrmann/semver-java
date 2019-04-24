@@ -1,4 +1,7 @@
 # semver-java
+
+[![CircleCI](https://circleci.com/gh/ehrmann/semver-java.svg?style=svg)](https://circleci.com/gh/ehrmann/semver-java)
+
 Java implementation of [Semantic Versioning](https://semver.org/) and
 [Node Semantic Version specifiers](https://github.com/npm/node-semver)
 
